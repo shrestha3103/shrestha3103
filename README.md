@@ -33,8 +33,9 @@
 <p> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=mongodb" /> </p>
 
 ### ⚙️ Other Tools
-<p> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=jupyter" /> <img src="https://skillicons.dev/icons?i=appwrite" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <img src="https://skillicons.dev/icons?i=appwrite" /> </p>
 
+## 🎯 Current Focus
 🧠 Mastering MERN Full Stack
 
 📘 Practicing DSA
@@ -43,7 +44,7 @@
 
 🤖 Learning Deep Learning, LLM and GenAI 
 
-## Connect with me:
+## Connect with Me:
 <p align="left">
 <a href="https://github.com/https://github.com/shrestha3103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/shrestha3103" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shrestha-kundu-3103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrestha-kundu-3103/" height="30" width="40" /></a>
