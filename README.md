@@ -1,11 +1,14 @@
 # 🌸 Hi, I'm Shrestha! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 ### 🚀 B.Tech CSE | MERN Developer | Aspiring SDE | Data Science Enthusiast
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shrestha3103&label=Profile%20views&color=0e75b6&style=flat" alt="shrestha3103" />
+</p>
 <!-- Hero Banner --> <p align="center"> <img src="https://camo.githubusercontent.com/f108537c0b43fa2a01cecfbf28c0ae872fbc7050001f83f99e0847628662b392/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f443536323241514866706a4c32333445436c772f6665656473686172652d736872696e6b5f323034385f313533362f302f313639333931313736373132383f653d3231343734383336343726763d6265746126743d4a325a476f6d66565f4f457a434b35374d48486f475741593863386b6d7a616c7076513635744e38623430" width="500px" alt="coding girl gif"/> </p>
 ## 🌟 About Me
 
 - 💡 Passionate about building beautiful and functional Web & App projects
 - 🎨 Skilled in HTML, CSS, JavaScript, expanding in ReactJS, NextJS, NodeJS, ExpressJS, MongoDB
-- 📚 Exploring AI/ML & Data Science
+- 📚 Exploring **AI/ML & Data Science**
 - 👯 I'm looking to collaborate on **open source projects**
 - ✨ Always learning, always growing!
 - 📫 How to reach me **codershrestha1@gmail.com**
